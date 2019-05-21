@@ -1,0 +1,20 @@
+.col-md-12{
+    background-color:#FFD700;
+}
+.col-sm-6{
+background-color:#1E90FF;
+}
+.col-sm-2,.col-sm-8{
+background-color:#3CB371;
+}
+.col-sm-3{
+background-color:#FF0000;
+}
+.gray{
+background-color:#708090;
+}
+.inner{
+background-color:black;
+margin-bottom: 2%;
+color: white;
+}
